@@ -1,0 +1,8 @@
+D:\CS-CONSOLE\Ders-12-Faktoriyel\Ders-12-Faktoriyel\bin\Debug\Ders-12-Faktoriyel.exe.config
+D:\CS-CONSOLE\Ders-12-Faktoriyel\Ders-12-Faktoriyel\bin\Debug\Ders-12-Faktoriyel.exe
+D:\CS-CONSOLE\Ders-12-Faktoriyel\Ders-12-Faktoriyel\bin\Debug\Ders-12-Faktoriyel.pdb
+D:\CS-CONSOLE\Ders-12-Faktoriyel\Ders-12-Faktoriyel\obj\Debug\Ders-12-Faktoriyel.csproj.AssemblyReference.cache
+D:\CS-CONSOLE\Ders-12-Faktoriyel\Ders-12-Faktoriyel\obj\Debug\Ders-12-Faktoriyel.csproj.SuggestedBindingRedirects.cache
+D:\CS-CONSOLE\Ders-12-Faktoriyel\Ders-12-Faktoriyel\obj\Debug\Ders-12-Faktoriyel.csproj.CoreCompileInputs.cache
+D:\CS-CONSOLE\Ders-12-Faktoriyel\Ders-12-Faktoriyel\obj\Debug\Ders-12-Faktoriyel.exe
+D:\CS-CONSOLE\Ders-12-Faktoriyel\Ders-12-Faktoriyel\obj\Debug\Ders-12-Faktoriyel.pdb

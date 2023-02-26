@@ -1,0 +1,8 @@
+D:\CS-CONSOLE\Ders-8\Ders-8\bin\Debug\Ders-8.exe.config
+D:\CS-CONSOLE\Ders-8\Ders-8\bin\Debug\Ders-8.exe
+D:\CS-CONSOLE\Ders-8\Ders-8\bin\Debug\Ders-8.pdb
+D:\CS-CONSOLE\Ders-8\Ders-8\obj\Debug\Ders-8.csproj.AssemblyReference.cache
+D:\CS-CONSOLE\Ders-8\Ders-8\obj\Debug\Ders-8.csproj.SuggestedBindingRedirects.cache
+D:\CS-CONSOLE\Ders-8\Ders-8\obj\Debug\Ders-8.csproj.CoreCompileInputs.cache
+D:\CS-CONSOLE\Ders-8\Ders-8\obj\Debug\Ders-8.exe
+D:\CS-CONSOLE\Ders-8\Ders-8\obj\Debug\Ders-8.pdb

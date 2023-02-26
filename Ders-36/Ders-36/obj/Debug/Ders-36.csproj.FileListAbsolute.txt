@@ -1,0 +1,8 @@
+D:\CS-CONSOLE\Ders-36\Ders-36\bin\Debug\Ders-36.exe.config
+D:\CS-CONSOLE\Ders-36\Ders-36\bin\Debug\Ders-36.exe
+D:\CS-CONSOLE\Ders-36\Ders-36\bin\Debug\Ders-36.pdb
+D:\CS-CONSOLE\Ders-36\Ders-36\obj\Debug\Ders-36.csproj.AssemblyReference.cache
+D:\CS-CONSOLE\Ders-36\Ders-36\obj\Debug\Ders-36.csproj.SuggestedBindingRedirects.cache
+D:\CS-CONSOLE\Ders-36\Ders-36\obj\Debug\Ders-36.csproj.CoreCompileInputs.cache
+D:\CS-CONSOLE\Ders-36\Ders-36\obj\Debug\Ders-36.exe
+D:\CS-CONSOLE\Ders-36\Ders-36\obj\Debug\Ders-36.pdb

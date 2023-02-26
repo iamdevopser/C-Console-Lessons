@@ -1,0 +1,8 @@
+D:\CS-CONSOLE\Ders-15.1\Ders-15.1\bin\Debug\Ders-15.1.exe.config
+D:\CS-CONSOLE\Ders-15.1\Ders-15.1\bin\Debug\Ders-15.1.exe
+D:\CS-CONSOLE\Ders-15.1\Ders-15.1\bin\Debug\Ders-15.1.pdb
+D:\CS-CONSOLE\Ders-15.1\Ders-15.1\obj\Debug\Ders-15.1.csproj.AssemblyReference.cache
+D:\CS-CONSOLE\Ders-15.1\Ders-15.1\obj\Debug\Ders-15.1.csproj.SuggestedBindingRedirects.cache
+D:\CS-CONSOLE\Ders-15.1\Ders-15.1\obj\Debug\Ders-15.1.csproj.CoreCompileInputs.cache
+D:\CS-CONSOLE\Ders-15.1\Ders-15.1\obj\Debug\Ders-15.1.exe
+D:\CS-CONSOLE\Ders-15.1\Ders-15.1\obj\Debug\Ders-15.1.pdb
